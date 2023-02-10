@@ -13,7 +13,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-      <p>Vikas Gupta</p>
+      <a className="linkedin" href="https://www.linkedin.com/in/vikashkrgupta">Vikas Gupta</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -23,7 +23,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-      <p>Sudhinder Parvatikar</p>
+      <a className="linkedin" href="https://www.linkedin.com/in/snparvatikar/">Sudhinder Parvatikar</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -33,7 +33,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-      <p>Arvind Sasikumar</p>
+      <a className="linkedin" href="https://www.linkedin.com/in/arsakar/">Arvind Sasikumar</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -43,7 +43,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-      <p>Lokesh Venkataswamy</p>
+      <a className="linkedin" href="https://www.linkedin.com/in/lokeshvenkataswamy/">Lokesh Venkataswamy</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -53,9 +53,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-
-
-      <p>Dr. Tojin T. Eapen</p>
+      <a className="linkedin" href="https://www.linkedin.com/in/tteapen/">Dr, Tojin T. Eapen</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -65,7 +63,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-      <p>Jyoti Bharadwaj</p>
+      <a className="linkedin" href="https://www.linkedin.com/in/bharadwajjyoti/">Jyoti Bharadwaj</a>
       </div>
     </div>
     
@@ -79,7 +77,7 @@ const SpeakerWS = () => {
               className="circle-img"
             />
           </div>
-          <p>Akshay Johri</p>
+          <a className="linkedin" href="https://www.linkedin.com/in/akshayjohri/">Akshay Johri</a>
         </div>
         <div className="speaker-details">
           <div className="speaker-img">
@@ -89,7 +87,7 @@ const SpeakerWS = () => {
               className="circle-img"
             />
           </div>
-          <p>Riya Jain</p>
+          <a className="linkedin" href="https://www.linkedin.com/in/riyajn/">Riya Jain</a>
         </div>
         <div className="speaker-details">
           <div className="speaker-img">
@@ -99,7 +97,8 @@ const SpeakerWS = () => {
               className="circle-img"
             />
           </div>
-          <p>Shobhit Saxena</p>
+          <a className="linkedin" href="https://www.linkedin.com/in/saxenashobhit/">Shobhit Saxena</a>
+        
         </div>
         <div className="speaker-details">
           <div className="speaker-img">
@@ -109,7 +108,7 @@ const SpeakerWS = () => {
               className="circle-img"
             />
           </div>
-          <p>Vinod Aravindakshan</p>
+          <a className="linkedin" href="https://www.linkedin.com/in/vinodaravindakshan/">Vinod Aravindakshan</a>
         </div>
       </div>
     </>

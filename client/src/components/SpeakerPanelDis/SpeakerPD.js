@@ -13,7 +13,8 @@ const SpeakersPD = () => {
           className="circle-img"
         />
       </div>
-      <p>Manish D'Souza</p>
+      <a className="linkedin" href="https://www.linkedin.com/in/manish-d-souza-bb4769126/">Manish D'Souza</a>
+
       </div>
 
       <div className="speaker-details">
@@ -24,7 +25,8 @@ const SpeakersPD = () => {
           className="circle-img"
         />
       </div>
-      <p>Anuj Batra</p>
+      <a className="linkedin" href="https://www.linkedin.com/in/anujbatra1/">Anuj Batra</a>
+      
       </div>
 
       <div className="speaker-details">
@@ -35,7 +37,8 @@ const SpeakersPD = () => {
           className="circle-img"
         />
       </div>
-      <p>Leenesh Singh</p>
+      <a className="linkedin" href="https://www.linkedin.com/in/leenesh/">Leenesh Singh</a>
+      
       </div>
 
       <div className="speaker-details">
@@ -46,7 +49,8 @@ const SpeakersPD = () => {
           className="circle-img"
         />
       </div>
-      <p>Rohan Choukkar</p>
+      <a className="linkedin" href="https://www.linkedin.com/in/rohanchoukkar/">Rohan Choukkar</a>
+      
       </div>
 
       <div className="speaker-details">
@@ -57,7 +61,8 @@ const SpeakersPD = () => {
             className="circle-img"
           />
         </div>
-        <p>Deepak Pareek</p>
+        <a className="linkedin" href="https://www.linkedin.com/in/dkpareek/">Deepak Pareek</a>
+
       </div>
 
       <div className="speaker-details">
@@ -68,7 +73,8 @@ const SpeakersPD = () => {
             className="circle-img"
           />
         </div>
-        <p>Smitha Rao</p>
+        <a className="linkedin" href="https://www.linkedin.com/in/smithamangalore/">Smitha Rao</a>
+
       </div>
 
       </div>

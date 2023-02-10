@@ -41,3 +41,7 @@ button:focus,
 button:active {
   outline: none;
 }
+.linkedin{
+  color: white;
+  text-decoration: none;
+}
