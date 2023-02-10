@@ -1,0 +1,114 @@
+.events-header {
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+.events-header button {
+    background-color: #D3D3D3;
+    border: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 800;
+    padding: 15px 25px;
+    margin: 20px 0;
+    border-radius: 1.4rem;
+    font-size: 19.2px;
+    font-size: 19.2px;
+    font-size: 1.2rem;
+}
+.events-header button:hover {
+    -webkit-transform: scale(1.02);
+            transform: scale(1.02);
+    cursor: pointer;
+    color: #A4161A;
+}
+.events-header img {
+    width: 30%;
+}
+.events-head {
+    text-align: center;
+    font-size: 48px;
+    font-size: 48px;
+    font-size: 48px;
+    font-size: 3rem;
+    margin: 0;
+}
+.grid {
+    display: -ms-grid;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 7px;
+    color: #F5F3F4;
+    margin: 10px;
+}
+.article {
+    box-shadow: inset 1px 1px rgba(0, 0, 0, 0.01);
+    border-radius: 10px;
+    border: 1px solid grey;
+    padding: 19.2px;
+    padding: 19.2px;
+    padding: 19.2px;
+    padding: 1.2rem;
+    position: relative;
+}
+.article:hover {
+    border: 1px solid #BA181B;
+    color: #BA181B;
+    -webkit-transform: scale(0.99);
+            transform: scale(0.99);
+}
+.card-heading {
+    font-size: 32px;
+    font-size: 32px;
+    font-size: 32px;
+    font-size: 2rem;
+    padding: 9.6px;
+    padding: 9.6px;
+    padding: 9.6px;
+    padding: 0.6rem;
+    margin: 0;
+    font-weight: 800;
+    text-transform: uppercase;
+    background: -webkit-radial-gradient(20% 70%, circle, #a4161a, #a5171b, #aa191d, #b01d20, #b72123, #c02528, #c82a2c, #d12e31, #d93235, #df3538, #e3373a, #e5383b);
+    background: radial-gradient(circle at 20% 70%, #a4161a, #a5171b, #aa191d, #b01d20, #b72123, #c02528, #c82a2c, #d12e31, #d93235, #df3538, #e3373a, #e5383b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text-large{
+    font-size: 19.2px;
+    font-size: 19.2px;
+    font-size: 19.2px;
+    font-size: 1.2rem;
+    padding: 0 16px;
+    padding: 0 16px;
+    padding: 0 16px;
+    padding: 0 1rem;
+}
+@media (max-width:768px) {
+    .events-head {
+        font-size: 1.6rem;
+    }
+    .events-header {
+        padding-top: 30%;
+    }
+    .events-header img {
+        width: 100%;
+    }
+    .grid{
+        grid-template-columns: repeat(1,1fr);
+        width: 100%;
+        margin: 10px 0;
+        padding: 0 10px;
+    }
+    .article{
+        padding: 1.5rem;
+    }
+    .card-heading {
+        padding: 0;
+        font-size: 1.5rem;
+    }
+    .text-large {
+        padding: 0;
+        font-size: 0.9rem;
+    }
+}

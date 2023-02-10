@@ -1,0 +1,177 @@
+.register-wrapper {
+    min-height: 100vh;
+    width: 100vw;
+    color: white;
+    background: conic-gradient(from 150deg at 0% 10%, #660708, #0b090a);
+}
+.d2c {
+    background-color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: #660708;
+}
+.form-wrapper {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.form-wrapper form {
+    width: 30%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+}
+label {
+    display: block;
+    font-size: 14px;
+    margin: 0;    
+}
+.reg-input {
+    font-size: 16px;
+    width: 100%;
+    margin-top: 5px;
+    padding: 12px 7px;
+    border: 0.5px rgb(146, 146, 146) solid;
+    border-radius: 5px;
+    background-color: transparent;
+    color: white;
+}
+textarea {
+    color: white;
+    background-color: transparent;
+}
+.reg-input-select {
+    font-size: 16px;
+    width: 100%;
+    margin-top: 5px;
+    padding: 12px 7px;
+    border: 0.5px rgb(146, 146, 146) solid;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+::-webkit-input-placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 0.7;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* Firefox */
+}
+::-moz-placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 0.7;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* Firefox */
+}
+:-ms-input-placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 0.7;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* Firefox */
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 0.7;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* Firefox */
+}
+.reg-input:focus, .reg-input-select:focus {
+    outline: none;
+    border-radius: 0;
+    border: 0.5px solid white;
+}
+.reg-input:focus+.underline {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+}
+.underline {
+    background: -webkit-radial-gradient(20% 70%, circle, #a4161a, #a5171b, #aa191d, #b01d20, #b72123, #c02528, #c82a2c, #d12e31, #d93235, #df3538, #e3373a, #e5383b);
+    background: radial-gradient(circle at 20% 70%, #a4161a, #a5171b, #aa191d, #b01d20, #b72123, #c02528, #c82a2c, #d12e31, #d93235, #df3538, #e3373a, #e5383b);     
+    height: 4px;
+    display: block;
+    -webkit-transform: scale(0, 1);
+    transform: scale(0, 1);
+    -webkit-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+    width: 100%;
+}
+.form-wrapper form h5 {
+    margin: 0;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 1.1rem;
+}
+.events-choice div {
+    margin: 0 5px;
+}
+.events-choice label {
+    display: inline;
+    font-size: 16px;
+}
+.events-choice {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    margin: 10px 0;
+}
+.event-type h6 {
+    margin: 5px 0;
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid grey;
+    border-top: 1px solid grey;
+    font-size: 1rem;
+}
+textarea {
+    border: 0.5px solid grey;
+    border-radius: 5px;
+    outline: none;
+    padding: 5px;
+    font-family: 'Be Vietnam', sans-serif;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 50px;
+    max-height: 100px;
+}
+.form-wrapper form button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    margin: 10px 0;
+    background-color: black;
+    font-weight: 800;
+}
+form button:hover {
+    -webkit-transform: scale(0.98);
+            transform: scale(0.98);
+    -webkit-transition-duration: 500ms;
+            transition-duration: 500ms;
+    cursor: pointer;
+    border: 2px solid white;
+}
+@media only screen and (max-width: 812px) {
+    .register-wrapper {
+        padding-top: 30%;
+    }
+    .form-wrapper form {
+        width: 100%;
+        padding: 1rem;
+    }
+}

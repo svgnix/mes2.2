@@ -1,0 +1,83 @@
+.standup-header {
+    background: linear-gradient(180deg, #ffffff, #d6d6d6, #afafaf, #898989, #656565, #434343, #242424, transparent);
+    color: white;
+}
+.com-image {
+    height: 70vh;
+    width: 100%;
+    background-image: url("https://images.mid-day.com/images/images/2021/jun/Karunesh-Talwar_d.jpg");
+    background-size: cover;
+    background-position: top;
+}
+.gradient {
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+    background: linear-gradient(180deg, #660708 0.01%, rgba(0, 0, 0, 0.01) 0.02%, #660708 100%);
+}
+.head-content {
+    padding: 30px 50px;
+}
+.head-content h3 {
+    font-size: 4rem;
+    margin: 0;
+}
+.head-content p { 
+    font-size: 1.3rem;
+}
+.standup-form {
+    padding: 50px;
+    width: 30%;
+    margin: 0 auto;
+}
+.standup-form button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    margin: 20px 0;
+    background-color: #660708;
+    font-weight: 800;
+}
+.standup-meta {
+    height: fit-content;
+    margin: 10px 0;
+    display: flex;
+    gap: 10px;
+}
+.date {
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+.date img{
+    height: 100%;
+    margin-right: 7px;
+}
+.date p {
+    font-weight: 800;
+}
+@media only screen and (max-width: 812px) {
+    .com-image {
+        height: 85vh;
+    }
+    .head-content {
+        padding: 20px 30px;
+    }
+    .head-content h3 {
+        font-size: 2rem;
+    }
+    .head-content p {
+        font-size: 0.9rem;
+    }
+    .standup-form {
+        padding: 20px;
+        width: 100%;
+    }
+    .standup-meta {
+        flex-wrap: wrap;
+    }
+}

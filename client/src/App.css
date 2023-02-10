@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  font-family: 'Be Vietnam', sans-serif;
+  scroll-behavior: smooth;
+  background: -webkit-radial-gradient(20% 70%, circle, #000000, #000000, #010101, #020202, #030303, #050404, #060506, #080607, #090708, #0a0809, #0b090a, #0b090a);
+  background: radial-gradient(circle at 20% 70%, #000000, #000000, #010101, #020202, #030303, #050404, #060506, #080607, #090708, #0a0809, #0b090a, #0b090a);
+}
+/* customise scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: white white(0, 0, 0);
+}
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 5px;
+}
+*::-webkit-scrollbar-track {
+  background: black;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: white;
+  border: 3px solid white;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+button:focus,
+button:active {
+  outline: none;
+}
