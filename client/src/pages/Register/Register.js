@@ -712,6 +712,14 @@ const Register = () => {
                             handleArray={handleRegEventsArray}
                         />
                         {/* <CheckboxCard 
+                            eventName="Entrepreneurship Journey"
+                            eventMode="Workshop" 
+                            changeFunc={setWorkOne} 
+                            logo={workshopLogo}
+                            handleArray={handleRegEventsArray}
+                        />
+                         */}
+                        {/* <CheckboxCard 
                             eventName="Business Networking Workshop" 
                             eventMode="Offline" 
                             changeFunc={setWorkTwo} 
