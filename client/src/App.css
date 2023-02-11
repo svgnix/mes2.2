@@ -45,3 +45,7 @@ button:active {
   color: white;
   text-decoration: none;
 }
+.linkedin:hover{
+  color: #ff8826;
+  text-decoration: none;
+}
