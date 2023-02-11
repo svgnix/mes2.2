@@ -677,7 +677,7 @@ const Register = () => {
                         /> */}
                         <CheckboxCard 
                             eventName="Design Thinking" 
-                            eventMode="Offline" 
+                            eventMode="Workshop" 
                             changeFunc={setWorkOne} 
                             logo={workshopLogo}
                             handleArray={handleRegEventsArray}
@@ -685,28 +685,28 @@ const Register = () => {
 
                         <CheckboxCard 
                             eventName="Entrepreneurial Modelling" 
-                            eventMode="Offline" 
+                            eventMode="Workshop" 
                             changeFunc={setWorkOne} 
                             logo={workshopLogo}
                             handleArray={handleRegEventsArray}
                         />
                         <CheckboxCard 
                             eventName="Amplifying Innovation for Growth" 
-                            eventMode="Offline" 
+                            eventMode="Workshop" 
                             changeFunc={setWorkOne} 
                             logo={workshopLogo}
                             handleArray={handleRegEventsArray}
                         />
                         <CheckboxCard 
                             eventName="Start Ups- building a niche" 
-                            eventMode="Offline" 
+                            eventMode="Workshop" 
                             changeFunc={setWorkOne} 
                             logo={workshopLogo}
                             handleArray={handleRegEventsArray}
                         />
                         <CheckboxCard 
                             eventName="Product Management Bootcamp"
-                            eventMode="Offline" 
+                            eventMode="Workshop" 
                             changeFunc={setWorkOne} 
                             logo={workshopLogo}
                             handleArray={handleRegEventsArray}

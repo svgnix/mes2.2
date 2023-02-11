@@ -54,7 +54,7 @@ const Landing = () => {
                         <img src={mes} alt="MES Logo"/>
                     </div>
                     <p>
-                        MAHE's flagship entrepreneurship event, MES, is a landmark two-week event from 17th to 25th February. In this 
+                        MAHE's flagship entrepreneurship event, Manipal Entrepreneurship Summit, is a landmark two-week event from 17th to 25th February. In this 
                         6th edition, we plan on bringing ideas, zeal and passion like never seen before. Here, a mere thought to solve a problem delivers solutions 
                         that will not just revolutionise the world but encourage others to put their thinking caps on and work outside their comfort zones. 
                         Creativity, innovation, and thriving for excellence are the primary carriers of this year's summit. Through MES, E-Cell MIT plans to 

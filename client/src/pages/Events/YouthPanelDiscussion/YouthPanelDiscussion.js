@@ -18,7 +18,7 @@ const YouthPanelDiscussion = () => {
             <Navbar />
             <div className="description">
               <div className="mes-logo">
-                <img src="https://i.ibb.co/sjM3qZg/panel-discussion.png" alt="panel-discussion" border="0"></img>
+                <img src="https://i.ibb.co/pQYFnfL/hand-black.jpg" alt="panel-discussion" border="0"></img>
               </div>
               <h1>Youth Panel Discussion</h1>
               <p>

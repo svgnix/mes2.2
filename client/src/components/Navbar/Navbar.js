@@ -29,15 +29,18 @@ const Navbar = () => {
                  <li class="nav-item" onClick={closeNav}>
                     <a href="/" class="nav-link">Home</a>
                 </li>
-                <li class="nav-item" onClick={closeNav}>
-                    <a href="/register" class="nav-link">Register</a>
-                </li>
+
                 <li class="nav-item" onClick={closeNav}>
                     <a href="/events" class="nav-link">Events</a>
                 </li>
+
                 <li class="nav-item" onClick={closeNav}>
-                    <a href="/guidelines" class="nav-link">Sponsors</a>
+                    <a href="/register" class="nav-link">Register</a>
                 </li>
+                
+                {/* <li class="nav-item" onClick={closeNav}>
+                    <a href="/guidelines" class="nav-link">Sponsors</a>
+                </li> */}
                 {/* <li class="nav-item" onClick={closeNav}>
                     <a href="/team" class="nav-link">Team</a>
                 </li> */}

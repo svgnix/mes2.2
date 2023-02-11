@@ -52,7 +52,7 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='https://i.ibb.co/2Wx35Xf/Moneyball-cutout.png'
+              src='https://i.ibb.co/28G490T/money-ball-black-3.jpg'
               text='Money Ball'
               // label='Consulting'
               path='/moneyball'
@@ -64,7 +64,7 @@ function Cards() {
               path='/casemaze'
             />
             <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
+              src='https://i.ibb.co/pQYFnfL/hand-black.jpg'
               text='Youth Panel Discussion'
               // label='Consulting'
               path='/ypd'

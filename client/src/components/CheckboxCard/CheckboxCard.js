@@ -22,7 +22,7 @@ const CheckboxCard = ({ eventName, eventMode, logo, dateString, changeFunc, hand
 				    	<img alt={eventName} src={logo}></img>
 				        <span style={{ margin: 0, display: "flex", flexDirection: "column", justifyContent: "flex-start" }}>
                             <span className="checkbox-label" style={{ textAlign: "left" }}>{eventName}</span>
-                            <span style={{ color: "black" }}>{eventMode} Event</span>
+                            <span style={{ color: "black" }}>{eventMode} </span>
                         </span>
                     </span>
                     <span className="checkbox-icon">
