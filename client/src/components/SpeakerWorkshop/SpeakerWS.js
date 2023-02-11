@@ -23,7 +23,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-          <a className="linkedin" href="https://www.linkedin.com/in/snparvatikar/" target={"_blank"} rel="noreferrer">Sudhinder Parvatikar</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/snparvatikar/" target={"_blank"} rel="noreferrer">Sudhinder <br></br>Parvatikar</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -43,7 +43,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-          <a className="linkedin" href="https://www.linkedin.com/in/lokeshvenkataswamy/" target={"_blank"} rel="noreferrer">Lokesh Venkataswamy</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/lokeshvenkataswamy/" target={"_blank"} rel="noreferrer">Lokesh <br></br>Venkataswamy</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -108,7 +108,7 @@ const SpeakerWS = () => {
               className="circle-img"
             />
           </div>
-          <a className="linkedin" href="https://www.linkedin.com/in/vinodaravindakshan/" target={"_blank"} rel="noreferrer">Vinod Aravindakshan</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/vinodaravindakshan/" target={"_blank"} rel="noreferrer">Vinod <br></br>Aravindakshan</a>
         </div>
       </div>
     </>
