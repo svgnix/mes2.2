@@ -13,7 +13,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-      <a className="linkedin" href="https://www.linkedin.com/in/vikashkrgupta">Vikas Gupta</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/vikashkrgupta" target={"_blank"} rel="noreferrer">Vikas Gupta</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -23,7 +23,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-      <a className="linkedin" href="https://www.linkedin.com/in/snparvatikar/">Sudhinder Parvatikar</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/snparvatikar/" target={"_blank"} rel="noreferrer">Sudhinder Parvatikar</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -33,7 +33,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-      <a className="linkedin" href="https://www.linkedin.com/in/arsakar/">Arvind Sasikumar</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/arsakar/" target={"_blank"} rel="noreferrer">Arvind Sasikumar</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -43,7 +43,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-      <a className="linkedin" href="https://www.linkedin.com/in/lokeshvenkataswamy/">Lokesh Venkataswamy</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/lokeshvenkataswamy/" target={"_blank"} rel="noreferrer">Lokesh Venkataswamy</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -53,7 +53,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-      <a className="linkedin" href="https://www.linkedin.com/in/tteapen/">Dr, Tojin T. Eapen</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/tteapen/" target={"_blank"} rel="noreferrer">Dr, Tojin T. Eapen</a>
       </div>
       <div className="speaker-details">
       <div className="speaker-img">
@@ -63,7 +63,7 @@ const SpeakerWS = () => {
           className="circle-img"
         />
       </div>
-      <a className="linkedin" href="https://www.linkedin.com/in/bharadwajjyoti/">Jyoti Bharadwaj</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/bharadwajjyoti/" target={"_blank"} rel="noreferrer">Jyoti Bharadwaj</a>
       </div>
     </div>
     
@@ -77,7 +77,7 @@ const SpeakerWS = () => {
               className="circle-img"
             />
           </div>
-          <a className="linkedin" href="https://www.linkedin.com/in/akshayjohri/">Akshay Johri</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/akshayjohri/" target={"_blank"} rel="noreferrer">Akshay Johri</a>
         </div>
         <div className="speaker-details">
           <div className="speaker-img">
@@ -87,7 +87,7 @@ const SpeakerWS = () => {
               className="circle-img"
             />
           </div>
-          <a className="linkedin" href="https://www.linkedin.com/in/riyajn/">Riya Jain</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/riyajn/" target={"_blank"} rel="noreferrer">Riya Jain</a>
         </div>
         <div className="speaker-details">
           <div className="speaker-img">
@@ -97,7 +97,7 @@ const SpeakerWS = () => {
               className="circle-img"
             />
           </div>
-          <a className="linkedin" href="https://www.linkedin.com/in/saxenashobhit/">Shobhit Saxena</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/saxenashobhit/" target={"_blank"} rel="noreferrer">Shobhit Saxena</a>
         
         </div>
         <div className="speaker-details">
@@ -108,7 +108,7 @@ const SpeakerWS = () => {
               className="circle-img"
             />
           </div>
-          <a className="linkedin" href="https://www.linkedin.com/in/vinodaravindakshan/">Vinod Aravindakshan</a>
+          <a className="linkedin" href="https://www.linkedin.com/in/vinodaravindakshan/" target={"_blank"} rel="noreferrer">Vinod Aravindakshan</a>
         </div>
       </div>
     </>

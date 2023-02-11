@@ -27,6 +27,11 @@ const CaseMaze = () => {
                     <Link to="/register">
                         <button>Register Now</button>
                     </Link>
+
+                    <br></br>
+                    <br></br>
+                    <br></br>
+
                 </div>
             </div>
             

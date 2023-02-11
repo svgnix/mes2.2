@@ -13,7 +13,7 @@ const SpeakersYPD = () => {
                         className="circle-img"
                     />
                 </div>
-                <a className="linkedin" href="https://www.linkedin.com/in/dhruvagoyal/">Dhruva Goyal</a>
+                <a className="linkedin" href="https://www.linkedin.com/in/dhruvagoyal/" target={"_blank"} rel="noreferrer">Dhruva Goyal</a>
             </div>
 
             <div className="speaker-details">
@@ -24,7 +24,7 @@ const SpeakersYPD = () => {
                         className="circle-img"
                     />
                 </div>
-                <a className="linkedin" href="https://www.linkedin.com/in/anirudh-arun-2823b3204/">Anirudh Arun</a>
+                <a className="linkedin" href="https://www.linkedin.com/in/anirudh-arun-2823b3204/" target={"_blank"} rel="noreferrer">Anirudh Arun</a>
             </div>
 
             <div className="speaker-details">
@@ -35,7 +35,7 @@ const SpeakersYPD = () => {
                         className="circle-img"
                     />
                 </div>
-                <a className="linkedin" href="https://www.linkedin.com/in/rishabh-gupta-8955a85a/">Rishabh Gupta</a>
+                <a className="linkedin" href="https://www.linkedin.com/in/rishabh-gupta-8955a85a/" target={"_blank"} rel="noreferrer">Rishabh Gupta</a>
                 
             </div>
 
