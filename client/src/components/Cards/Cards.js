@@ -46,7 +46,7 @@ function Cards() {
             <CardItem
               src='https://i.ibb.co/sF96SP1/F.png'
               // label='Genre/topic'
-              text='Fallout'
+              text='    Fallout    '
               path='/fallout'
             />
           </ul>

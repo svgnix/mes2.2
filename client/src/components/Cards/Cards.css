@@ -96,7 +96,9 @@
   .cards__item__text {
     color: #fff;
     font-size: 18px;
-    line-height: 24px;
+    line-height: 24px; 
+    display: flex;
+    justify-content: center;
   }
   
   @media only screen and (min-width: 1200px) {

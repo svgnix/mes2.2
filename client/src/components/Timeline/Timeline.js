@@ -107,7 +107,7 @@ const Timeline = () => {
                         <p></p>
                     </div>
                     <div className="time-box">
-                        <h5>MoneyQuest</h5>
+                        <h5>MoneyQuest Finals</h5>
                         <p></p>
                     </div>
                     <div className="time-box">
@@ -130,11 +130,11 @@ const Timeline = () => {
                         <p></p>
                     </div>
                     <div className="time-box">
-                        <h5>Fallout</h5>
+                        <h5>Fallout Finals</h5>
                         <p></p>
                     </div>
                     <div className="time-box">
-                        <h5>MoneyBall</h5>
+                        <h5>MoneyBall Finals</h5>
                         <p></p>
                     </div>
                     <div className="time-box">

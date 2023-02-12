@@ -8,6 +8,30 @@ const SpeakersPD = () => {
       <div className="speaker-details">
         <div className="speaker-img">
           <img
+            src="https://i.ibb.co/thPvDZj/image.png"
+            alt="Speaker 1"
+            className="circle-img"
+          />
+        </div>
+        <a className="linkedin" href="https://www.linkedin.com/in/dkpareek/" target={"_blank"} rel="noreferrer">Deepak Pareek</a>
+
+      </div>
+
+      <div className="speaker-details">
+        <div className="speaker-img">
+          <img
+            src="https://i.ibb.co/LJZs7cJ/image.png"
+            alt="Speaker 1"
+            className="circle-img"
+          />
+        </div>
+        <a className="linkedin" href="https://www.linkedin.com/in/leenesh/" target={"_blank"} rel="noreferrer">Leenesh Singh</a>
+
+      </div>
+
+      <div className="speaker-details">
+        <div className="speaker-img">
+          <img
             src="https://i.ibb.co/pWfXv9r/image.png"
             alt="Speaker 1"
             className="circle-img"
@@ -29,17 +53,7 @@ const SpeakersPD = () => {
 
       </div>
 
-      <div className="speaker-details">
-        <div className="speaker-img">
-          <img
-            src="https://i.ibb.co/LJZs7cJ/image.png"
-            alt="Speaker 1"
-            className="circle-img"
-          />
-        </div>
-        <a className="linkedin" href="https://www.linkedin.com/in/leenesh/" target={"_blank"} rel="noreferrer">Leenesh Singh</a>
-
-      </div>
+      
 
       <div className="speaker-details">
         <div className="speaker-img">
@@ -53,17 +67,7 @@ const SpeakersPD = () => {
 
       </div>
 
-      <div className="speaker-details">
-        <div className="speaker-img">
-          <img
-            src="https://i.ibb.co/MBVcMQ9/image.png"
-            alt="Speaker 1"
-            className="circle-img"
-          />
-        </div>
-        <a className="linkedin" href="https://www.linkedin.com/in/dpareek/" target={"_blank"} rel="noreferrer">Deepak Pareek</a>
 
-      </div>
 
       <div className="speaker-details">
         <div className="speaker-img">
