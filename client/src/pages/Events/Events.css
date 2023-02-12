@@ -3,6 +3,9 @@
     width: 100%;
     color: white;
 }
+.m-container {
+    overflow: hidden;
+}
 .events-header button {
     background-color: #D3D3D3;
     border: none;
