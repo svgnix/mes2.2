@@ -34,7 +34,7 @@ const Register = () => {
     const [keyNote, setKeyNote] = useState(false);
     const [talk, setTalk] = useState(false);
     const [caseMaze, setCaseMaze] = useState(false);
-    const [fallout,setFallout]=useState(false)
+    const [fallout,setFallout]=useState(false);
     const [workshopOne, setWorkOne] = useState(false);
     const [workshopTwo, setWorkTwo] = useState(false);
     const [biz, setBiz] = useState(false);
