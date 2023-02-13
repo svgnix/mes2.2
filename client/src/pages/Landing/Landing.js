@@ -9,7 +9,7 @@ const Landing = () => {
     return (
         <div className="page-wrapper">
             <Helmet>
-                <title>MES 2022 | E-Cell MIT</title>
+                <title>MES 2023 | E-Cell MIT</title>
                 <meta name='description' content='Manipal Entrepreneurship Summit 2022 organised by E-Cell MIT' />
                 <meta name='theme-color' content='#EFEFEF' />
                 <meta
