@@ -1,7 +1,7 @@
 import React from "react";
 import "./CheckboxCard.css"
 
-const CheckboxCard = ({ eventName, eventMode, logo, dateString, changeFunc, handleArray }) => {
+const CheckboxCard = ({ eventName, eventMode, logo, dateString, changeFunc, handleArray, guest }) => {
     return (
         <div className="checkbox">
 	        <label className="checkbox-wrapper">
@@ -23,6 +23,7 @@ const CheckboxCard = ({ eventName, eventMode, logo, dateString, changeFunc, hand
 				        <span style={{ margin: 0, display: "flex", flexDirection: "column", justifyContent: "flex-start" }}>
                             <span className="checkbox-label" style={{ textAlign: "left" }}>{eventName}</span>
                             <span style={{ color: "black" }}>{eventMode} </span>
+                            <span style={{ color: "black" }}>{guest} </span>
                         </span>
                     </span>
                     <span className="checkbox-icon">

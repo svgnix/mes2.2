@@ -678,6 +678,7 @@ const Register = () => {
                         <CheckboxCard 
                             eventName="Design Thinking" 
                             eventMode="Workshop" 
+                            guest="Vikas Gupta"
                             changeFunc={setWorkOne} 
                             logo={workshopLogo}
                             handleArray={handleRegEventsArray}
@@ -686,6 +687,7 @@ const Register = () => {
                         <CheckboxCard 
                             eventName="Entrepreneurial Modelling" 
                             eventMode="Workshop" 
+                            guest="Sudhinder Parvatikar"
                             changeFunc={setWorkOne} 
                             logo={workshopLogo}
                             handleArray={handleRegEventsArray}
@@ -693,6 +695,7 @@ const Register = () => {
                         <CheckboxCard 
                             eventName="Amplifying Innovation for Growth" 
                             eventMode="Workshop" 
+                            guest="Lokesh Venkataswamy, Dr. Tojin T. Eapen"
                             changeFunc={setWorkOne} 
                             logo={workshopLogo}
                             handleArray={handleRegEventsArray}
@@ -700,6 +703,7 @@ const Register = () => {
                         <CheckboxCard 
                             eventName="Start Ups- building a niche" 
                             eventMode="Workshop" 
+                            guest="Jyoti Bharadwaj"
                             changeFunc={setWorkOne} 
                             logo={workshopLogo}
                             handleArray={handleRegEventsArray}
@@ -708,6 +712,7 @@ const Register = () => {
                             eventName="Product Management Bootcamp"
                             eventMode="Workshop" 
                             changeFunc={setWorkOne} 
+                            guest="Akshay Johri, Riya Jain, Shobit Saxena"
                             logo={workshopLogo}
                             handleArray={handleRegEventsArray}
                         />
@@ -756,8 +761,9 @@ const Register = () => {
                         /> */}
                         <CheckboxCard 
                             eventName="Keynote and Youth panel" 
-                            eventMode="Offline" 
+                            eventMode="" 
                             changeFunc={setTalk}
+                            guest="Abhinav Arora, Dhruva Goyal, Anirudh Arun, Rishabh Gupta"
                             logo={talkLogo} 
                             handleArray={handleRegEventsArray}
                         />
@@ -792,8 +798,9 @@ const Register = () => {
                         /> */}
                         <CheckboxCard 
                             eventName="Panel Discussion" 
-                            eventMode="Offline" 
+                            eventMode="" 
                             changeFunc={setPanel}
+                            guest="Manish D'Souza, Anuj Batra, Leenesh Singh, Rohan Choukkar, Deepak Pareek, Smitha Rao"
                             logo={panelLogo} 
                             handleArray={handleRegEventsArray}
                         />
