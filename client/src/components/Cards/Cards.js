@@ -68,8 +68,27 @@ function Cards() {
               text='Youth Panel Discussion'
               // label='Consulting'
               path='/ypd'
+            /> 
+          </ul>
+          <ul className='cards__items'>
+            <CardItem
+              src='https://i.ibb.co/vkFxdts/Logo-Final.png'
+              text='On the Spot'
+              // label='Consulting'
+              path='/onspot'
             />
-            
+            <CardItem
+              src='https://i.ibb.co/vkFxdts/Logo-Final.png'
+              text='ECell x ISTE'
+              // label='Consulting'
+              path='/register'
+            />
+            <CardItem
+              src='https://i.ibb.co/ngqpJMD/Untitled26-20230210192807.png'
+              text='IDEATASTIC'
+              // label='Consulting'
+              path='/register'
+            /> 
           </ul>
         </div>
       </div>

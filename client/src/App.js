@@ -22,6 +22,7 @@ import Moneyball from './pages/Events/Moneyball/Moneyball';
 import Workshop from './pages/Events/Workshop/Workshop';
 import Informals from './pages/Events/Informals/Informals';
 import YouthPanelDiscussion from './pages/Events/YouthPanelDiscussion/YouthPanelDiscussion';
+import Onspot from './pages/Events/Onspot/Onspot';
 
 function App() {
   axios.defaults.baseURL = process.env.REACT_APP_BASE_URL;
@@ -93,6 +94,11 @@ function App() {
             exact
             path="/ypd"
             element={ <YouthPanelDiscussion /> }
+          />
+          <Route
+            exact
+            path="/onspot"
+            element={ <Onspot /> }
           />
           {/* <Route
             exact
