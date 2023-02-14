@@ -81,13 +81,13 @@ function Cards() {
               src='https://i.ibb.co/vkFxdts/Logo-Final.png'
               text='ECell x ISTE'
               // label='Consulting'
-              path='/register'
+              path='/iste'
             />
             <CardItem
               src='https://i.ibb.co/ngqpJMD/Untitled26-20230210192807.png'
               text='IDEATASTIC'
               // label='Consulting'
-              path='/register'
+              path='/ideatastic'
             /> 
           </ul>
         </div>

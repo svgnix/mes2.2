@@ -23,6 +23,8 @@ import Workshop from './pages/Events/Workshop/Workshop';
 import Informals from './pages/Events/Informals/Informals';
 import YouthPanelDiscussion from './pages/Events/YouthPanelDiscussion/YouthPanelDiscussion';
 import Onspot from './pages/Events/Onspot/Onspot';
+import Ideatastic from './pages/Events/Ideatastic/Ideatastic';
+import Iste from './pages/Events/Iste/Iste';
 
 function App() {
   axios.defaults.baseURL = process.env.REACT_APP_BASE_URL;
@@ -99,6 +101,16 @@ function App() {
             exact
             path="/onspot"
             element={ <Onspot /> }
+          />
+          <Route
+            exact
+            path="/ideatastic"
+            element={ <Ideatastic /> }
+          />
+          <Route
+            exact
+            path="/iste"
+            element={ <Iste /> }
           />
           {/* <Route
             exact
