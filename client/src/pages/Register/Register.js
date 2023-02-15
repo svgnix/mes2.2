@@ -748,6 +748,7 @@ const Register = () => {
                         <CheckboxCard 
                             eventName="Money Quest" 
                             eventMode="Offline" 
+                            guest="*Open to first years only*"
                             changeFunc={setMoneyQuest} 
                             logo={moneyLogo}
                             handleArray={handleRegEventsArray}

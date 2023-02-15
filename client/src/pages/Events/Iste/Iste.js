@@ -17,7 +17,7 @@ const Iste = () => {
                 <Navbar />
                 <div className="description">
                     <div className="mes-logo">
-                        <img src='' alt="MES Logo"/>
+                <img src='https://i.ibb.co/JxJQ7Pw/iste-logo-meh-Asset-1.png' alt="MES Logo"/>
                     </div>
                     <h1>ECell x ISTE</h1>
                     <p>

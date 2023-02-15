@@ -78,7 +78,7 @@ function Cards() {
               path='/onspot'
             />
             <CardItem
-              src='https://i.ibb.co/vkFxdts/Logo-Final.png'
+              src="https://i.ibb.co/JxJQ7Pw/iste-logo-meh-Asset-1.png"
               text='ECell x ISTE'
               // label='Consulting'
               path='/iste'
