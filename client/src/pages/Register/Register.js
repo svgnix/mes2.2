@@ -79,7 +79,7 @@ const Register = () => {
         // committeePref3: ""
     }
     let moneyInit = {
-        numMems: ""
+        numMems: "3"
     }
     const [userData, setUserData] = useState({
             name: "",
@@ -808,7 +808,7 @@ const Register = () => {
                          <CheckboxCard 
                             eventName="Fall Out" 
                             eventMode="Offline" 
-                            changeFunc={workshopOne}
+                            changeFunc={setFallout}
                             logo={fallLogo} 
                             handleArray={handleRegEventsArray}
                         />
