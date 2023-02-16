@@ -6,6 +6,8 @@ import { Link } from "react-router-dom";
 import Speakers from "../../../components/Speakers/Speakers";
 import "./Iste.css";
 import SpeakerWS from "../../../components/SpeakerWorkshop/SpeakerWS";
+import SpeakerISTE from "../../../components/SpeakerISTE/SpeakerISTE";
+
 
 const Iste = () => {
   return (
@@ -21,7 +23,7 @@ const Iste = () => {
                     </div>
                     <h1>ECell x ISTE</h1>
                     <p>
-                    Join us for an enlightening and educational experience at our upcoming workshops, where we will be honored to host some of the most prominent and accomplished professionals in the industry. Get ready to be inspired and learn from experts like Abhinav Arora, Co-Founder and CMO of Avalon, Shobhit Saxena, Head of Products of Zee Media, Akshay Johri, Product Manager of Microsoft, and two startup founders from our very own college, Dhruva Goyal from Bugbase and Nirudh Arun from Formi along with many more. These industry leaders will share their valuable insights and experiences on various topics related to entrepreneurship and product development. This is a unique opportunity for attendees to gain a wealth of knowledge and make meaningful connections. Don't miss out on this fantastic learning opportunity!
+                    Join us for an enlightening and educational experience at our upcoming workshops, where we will be honored to host some of the most prominent and accomplished professionals in the industry. Get ready to be inspired and learn from experts like Vinod Aravindakshan, founder Careerbolt and Arvind Sasikumar, Co-Founder, CTO at Quinn.These industry leaders will share their valuable insights and experiences on various topics related to entrepreneurship and product development. This is a unique opportunity for attendees to gain a wealth of knowledge and make meaningful connections. Don't miss out on this fantastic learning opportunity!
                     </p>
                     <Link to="/register">
                         <button>Register Now</button>
@@ -78,7 +80,7 @@ const Iste = () => {
       </div>
     </div>   */}
     </div>
-    <SpeakerWS/>
+    <SpeakerISTE/>
     </>
   );
 };
