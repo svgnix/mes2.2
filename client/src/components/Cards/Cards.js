@@ -72,23 +72,18 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='https://i.ibb.co/vkFxdts/Logo-Final.png'
-              text='On the Spot'
+              src='https://i.ibb.co/ngqpJMD/Untitled26-20230210192807.png'
+              text='IDEATASTIC'
               // label='Consulting'
-              path='/onspot'
-            />
+              path='/ideatastic'
+            /> 
             <CardItem
               src="https://i.ibb.co/JxJQ7Pw/iste-logo-meh-Asset-1.png"
               text='ECell x ISTE'
               // label='Consulting'
               path='/iste'
             />
-            <CardItem
-              src='https://i.ibb.co/ngqpJMD/Untitled26-20230210192807.png'
-              text='IDEATASTIC'
-              // label='Consulting'
-              path='/ideatastic'
-            /> 
+            
           </ul>
         </div>
       </div>
