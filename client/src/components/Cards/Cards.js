@@ -73,7 +73,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='https://i.ibb.co/ngqpJMD/Untitled26-20230210192807.png'
-              text='IDEATASTIC'
+              text='IDEATTASTIC'
               // label='Consulting'
               path='/ideatastic'
             /> 

@@ -18,7 +18,7 @@ const Ideatastic = () => {
               <div className="mes-logo">
                 <img src='https://i.ibb.co/ngqpJMD/Untitled26-20230210192807.png' alt="MES Logo" />
               </div>
-              <h1>IDEATASTIC</h1>
+              <h1>IDEATTASTIC</h1>
 
               <p>Participants will be given a random imaginary product and will have to create a pitch based on
                 it. The product will be given along with its “working principles” and features. The pitch will have

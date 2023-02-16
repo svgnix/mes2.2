@@ -780,6 +780,7 @@ const Register = () => {
                             eventName="Case Maze" 
                             eventMode="Online" 
                             changeFunc={setCaseMaze} 
+                                guest="*Registration open on Unstop Website*"
                             logo={caseLogo}
                             handleArray={handleRegEventsArray}
                         /> 
