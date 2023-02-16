@@ -23,7 +23,7 @@ const Register = () => {
 
     const navigate = useNavigate();
 
-    const d2cLink = "https://dare2compete.com/p/case-maze-manipal-entrepreneurship-summit-manipal-academy-of-higher-education-mahe-karnataka-273797";
+    const d2cLink = "https://unstop.com/competitions/case-maze-manipal-entrepreneurship-summit-manipal-institute-of-technology-mit-manipal-608210";
 
     // const [workshop, setWorkshop] = useState(false);
     const [moneyQuest, setMoneyQuest] = useState(false);
@@ -776,13 +776,13 @@ const Register = () => {
                             logo={moneyquestLogo} 
                             handleArray={handleRegEventsArray}
                         />
-                        {/* <CheckboxCard 
+                        <CheckboxCard 
                             eventName="Case Maze" 
                             eventMode="Online" 
                             changeFunc={setCaseMaze} 
                             logo={caseLogo}
                             handleArray={handleRegEventsArray}
-                        /> */}
+                        /> 
                         {/* <CheckboxCard 
                             eventName="BizQuiz" 
                             eventMode="Online" 
