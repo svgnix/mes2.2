@@ -25,9 +25,7 @@ const Iste = () => {
                     <p>
                     Join us for an enlightening and educational experience at our upcoming workshops, where we will be honored to host some of the most prominent and accomplished professionals in the industry. Get ready to be inspired and learn from experts like Vinod Aravindakshan, founder Careerbolt and Arvind Sasikumar, Co-Founder, CTO at Quinn.These industry leaders will share their valuable insights and experiences on various topics related to entrepreneurship and product development. This is a unique opportunity for attendees to gain a wealth of knowledge and make meaningful connections. Don't miss out on this fantastic learning opportunity!
                     </p>
-                    <Link to="#">
-                        <button>Coming Soon</button>
-                    </Link>
+                    <h2>Registration is Live, Click on the Speaker to register</h2>
                     <br></br>
               <br></br>
               <br></br>

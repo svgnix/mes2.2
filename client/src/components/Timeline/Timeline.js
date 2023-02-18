@@ -30,7 +30,7 @@ const Timeline = () => {
                     <div className="time-box">
                         <h5>Entrepreneurship Journey</h5>
                         <p>by Arvind Sasikumar</p>
-                        <h7>16:30 - 18:00</h7>
+                        <h7>18:00 - 20:00</h7>
                     </div>
                 </div>
               </li>

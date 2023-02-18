@@ -1,3 +1,4 @@
+
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
@@ -73,7 +74,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='https://i.ibb.co/ngqpJMD/Untitled26-20230210192807.png'
-              text='IDEATASTIC'
+              text='IDEATTASTIC'
               // label='Consulting'
               path='/ideatastic'
             /> 
@@ -82,6 +83,12 @@ function Cards() {
               text='ECell x ISTE'
               // label='Consulting'
               path='/iste'
+            />
+            <CardItem
+              src="https://i.ibb.co/H4XJfsK/6.png"
+              text='Standup'
+              // label='Consulting'
+              path='/standup'
             />
             
           </ul>

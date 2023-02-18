@@ -112,6 +112,11 @@ function App() {
             path="/iste"
             element={ <Iste /> }
           />
+          <Route
+            exact
+            path="/standup"
+            element={ <Standup /> }
+          />
           {/* <Route
             exact
             path="/team"
