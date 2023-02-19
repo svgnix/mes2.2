@@ -5,144 +5,144 @@ const Timeline = () => {
     return (
         <section className="timeline">
             <ul>
-                <li>
-                    <div className="timeline-content">
-                        <h2 className="date">17<sup>th  </sup>&nbsp;February 2023</h2>
-                        <div className="time-box">
-                            <h5>Welcome to MES 2023</h5>
-                            <p>Launch ~ Director, MIT</p>
-                        </div>
-                        <div className="time-box">
-                            <h5>Design Thinking</h5>
-                            <p>Workshop by Vikas Gupta</p>
-                            <h7>18:00 - 20:00</h7>
-                        </div>
+              <li>
+                <div className="timeline-content">
+                <h2 className="date">17<sup>th  </sup>&nbsp;February 2023</h2>
+                    <div className="time-box">
+                        <h5>Welcome to MES 2023</h5>
+                        <p>Launch ~ Director, MIT</p>
                     </div>
-                </li>
-                <li>
-                    <div className="timeline-content">
-                        <h2 className="date">18<sup>th  </sup>&nbsp;February 2023</h2>
-                        <div className="time-box">
-                            <h5>Entrepreneurial Modelling</h5>
-                            <p>Workshop by Sudhinder Parvatikar</p>
-                            <h7>15:30 - 17:30</h7>
-                        </div>
-                        <div className="time-box">
-                            <h5>Entrepreneurship Journey</h5>
-                            <p>by Arvind Sasikumar</p>
-                            <h7>18:00 - 20:00</h7>
-                        </div>
+                    <div className="time-box">
+                        <h5>Design Thinking</h5>
+                        <p>Workshop by Vikas Gupta</p>
+                        <h7>16:00 - 18:00</h7>
                     </div>
-                </li>
-                <li>
-                    <div className="timeline-content">
-                        <h2 className="date">19<sup>th  </sup>&nbsp;February 2023</h2>
-                        <div className="time-box">
-                            <h5>Amplifying Innovation for Growth</h5>
-                            <p>Lokesh Venkataswamy</p>
-                            <p>Dr. Tojin T. Eapen</p>
-                            <h7>17:00 - 19:00</h7>
-                        </div>
+                </div>
+              </li>
+              <li>
+                <div className="timeline-content">
+                <h2 className="date">18<sup>th  </sup>&nbsp;February 2023</h2>
+                    <div className="time-box">
+                        <h5>Entrepreneurial Modelling</h5>
+                        <p>Workshop by Sudhinder Parvatikar</p>
+                        <h7>14:00 - 16:00</h7>
                     </div>
-                </li>
-                <li>
-                    <div className="timeline-content">
-                        <h2 className="date">20<sup>th  </sup>&nbsp;February 2023</h2>
-                        <div className="time-box">
-                            <h5>EdTech Entrepreneurship</h5>
-                            <p>Vinod Aravindakshan</p>
-                            <p></p>
-                            <h7>16:30 - 18:00</h7>
-                        </div>
+                    <div className="time-box">
+                        <h5>Entrepreneurship Journey</h5>
+                        <p>by Arvind Sasikumar</p>
+                        <h7>18:00 - 20:00</h7>
                     </div>
-                </li>
-                <li>
-                    <div className="timeline-content">
-                        <h2 className="date">21<sup>st  </sup>&nbsp;February 2023</h2>
-                        <div className="time-box">
-                            <h5>Start Ups- building a niche</h5>
-                            <p>Jyoti Bharadwaj</p>
-                            <h7>17:00 - 19:00</h7>
-                        </div>
+                </div>
+              </li>
+              <li>
+                <div className="timeline-content">
+                <h2 className="date">19<sup>th  </sup>&nbsp;February 2023</h2>
+                    <div className="time-box">
+                        <h5>Amplifying Innovation for Growth</h5>
+                        <p>Lokesh Venkataswamy</p>
+                        <p>Dr. Tojin T. Eapen</p>
+                        <h7>17:00 - 19:00</h7>
                     </div>
-                </li>
-                <li>
-                    <div className="timeline-content">
-                        <h2 className="date">22<sup>nd  </sup>&nbsp;February 2023</h2>
-                        <div className="time-box">
-                            <h5>Product Management Bootcamp</h5>
-                            <p>Akshay Johri</p>
-                            <p>Riya Jain</p>
-                            <p>Shobit Saxena</p>
-                            <h7>18:00 - 21:00</h7>
-                        </div>
+                </div>
+              </li>
+              <li>
+                <div className="timeline-content">
+                <h2 className="date">20<sup>th  </sup>&nbsp;February 2023</h2>
+                    <div className="time-box">
+                        <h5>EdTech Entrepreneurship</h5>
+                        <p>Vinod Aravindakshan</p>
+                        <p></p>
+                        <h7>16:30 - 18:00</h7>
                     </div>
-                </li>
-                <li>
-                    <div className="timeline-content">
-                        <h2 className="date">23<sup>rd  </sup>&nbsp;February 2023</h2>
-                        <div className="time-box">
-                            <h5>Keynote Session</h5>
-                            <p>Abhinav Arora</p>
-                            <h7>16:30 - 18:30</h7>
-                        </div>
-                        <div className="time-box">
-                            <h5>Youth Panel Interaction</h5>
-                            <p>Dhruva Goyal</p>
-                            <p>Anirudh Arun</p>
-                            <p>Rishabh Gupta</p>
-                            <h7>18:00 - 19:30</h7>
-                        </div>
-                        <div className="time-box">
-                            <h5>Case Maze</h5>
-                            <p></p>
-                        </div>
+                </div>
+              </li>
+              <li>
+                <div className="timeline-content">
+                <h2 className="date">21<sup>st  </sup>&nbsp;February 2023</h2>
+                    <div className="time-box">
+                        <h5>Start Ups- building a niche</h5>
+                        <p>Jyoti Bharadwaj</p>
+                        <h7>15:30 - 17:30</h7>
                     </div>
-                </li>
-                <li>
-                    <div className="timeline-content">
-                        <h2 className="date">24<sup>th  </sup>&nbsp;February 2023</h2>
-                        <div className="time-box">
-                            <h5>PitchTank</h5>
-                            <p></p>
-                        </div>
-                        <div className="time-box">
-                            <h5>MoneyQuest Finals</h5>
-                            <p></p>
-                        </div>
-                        <div className="time-box">
-                            <h5>Panel Discussion</h5>
-                            <p>Manish D'Souza</p>
-                            <p>Anuj Batra</p>
-                            <p>Leenesh Singh</p>
-                            <p>Rohan Choukkar</p>
-                            <p>Deepak Pareek</p>
-                            <p>Smitha Rao</p>
-                            <h7>18:00 - 19:30</h7>
-                        </div>
+                </div>
+              </li>
+              <li>
+                <div className="timeline-content">
+                <h2 className="date">22<sup>nd  </sup>&nbsp;February 2023</h2>
+                    <div className="time-box">
+                        <h5>Product Management Bootcamp</h5>
+                        <p>Akshay Johri</p>
+                        <p>Riya Jain</p>
+                        <p>Shobit Saxena</p>
+                        <h7>18:00 - 21:00</h7>
                     </div>
-                </li>
-                <li>
-                    <div className="timeline-content">
-                        <h2 className="date">25<sup>th  </sup>&nbsp;February 2023</h2>
-                        <div className="time-box">
-                            <h5>InnnovationMela</h5>
-                            <p></p>
-                        </div>
-                        <div className="time-box">
-                            <h5>Fallout Finals</h5>
-                            <p></p>
-                        </div>
-                        <div className="time-box">
-                            <h5>MoneyBall Finals</h5>
-                            <p></p>
-                        </div>
-                        <div className="time-box">
-                            <h5>Entertainment Night</h5>
-                        </div>
+                </div>
+              </li>
+              <li>
+                <div className="timeline-content">
+                <h2 className="date">23<sup>rd  </sup>&nbsp;February 2023</h2>
+                    <div className="time-box">
+                        <h5>Keynote Session</h5>
+                        <p>Abhinav Arora</p>
+                        <h7>16:30 - 18:30</h7>
                     </div>
-                </li>
-                {/* <li>
+                    <div className="time-box">
+                        <h5>Youth Panel Interaction</h5>
+                        <p>Dhruva Goyal</p>
+                        <p>Anirudh Arun</p>
+                        <p>Rishabh Gupta</p>
+                        <h7>18:00 - 19:30</h7>
+                    </div>
+                    <div className="time-box">
+                        <h5>Case Maze</h5>
+                        <p></p>
+                    </div>
+                </div>
+              </li>
+              <li>
+                <div className="timeline-content">
+                    <h2 className="date">24<sup>th  </sup>&nbsp;February 2023</h2>
+                    <div className="time-box">
+                        <h5>PitchTank</h5>
+                        <p></p>
+                    </div>
+                    <div className="time-box">
+                        <h5>MoneyQuest Finals</h5>
+                        <p></p>
+                    </div>
+                    <div className="time-box">
+                        <h5>Panel Discussion</h5>
+                        <p>Manish D'Souza</p>
+                        <p>Anuj Batra</p>
+                        <p>Leenesh Singh</p>
+                        <p>Rohan Choukkar</p>
+                        <p>Deepak Pareek</p>
+                        <p>Smitha Rao</p>
+                        <h7>18:00 - 19:30</h7>
+                    </div>
+                </div>
+              </li>
+              <li>
+                <div className="timeline-content">
+                <h2 className="date">25<sup>th  </sup>&nbsp;February 2023</h2>
+                    <div className="time-box">
+                        <h5>InnnovationMela</h5>
+                        <p></p>
+                    </div>
+                    <div className="time-box">
+                        <h5>Fallout Finals</h5>
+                        <p></p>
+                    </div>
+                    <div className="time-box">
+                        <h5>MoneyBall Finals</h5>
+                        <p></p>
+                    </div>
+                    <div className="time-box">
+                        <h5>Entertainment Night</h5>
+                    </div>
+                </div>
+              </li>
+              {/* <li>
                 <div className="timeline-content">
                     <h2 className="date">30th March 2022</h2>
                     <div className="time-box">

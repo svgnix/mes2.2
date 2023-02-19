@@ -28,7 +28,7 @@ const Standup = () => {
                     { ...userData }
                 );
             if(res.data.success) {
-                toast.success("Registrations closed!", { id: toastId });
+                toast.success("Registrations Successfully!", { id: toastId });
                 setTimeout(() => {
                     navigate("/");
                 }, 3000);
@@ -44,21 +44,21 @@ const Standup = () => {
                 <div className="com-image">
                     <div className="gradient">
                         <div className="head-content">
-                            <h3>Karunesh Talwar</h3>
+                            <h3>Rajat Chauhan & Ashish Solanki</h3>
                             <p>
-                                A standup performance by Karunesh Talwar, one of India’s leading standup comics, with two specials on Amazon Prime. Karunesh 
-                                has a unique spot in the pantheon of Indian comics, with a knack for observation that is second to none, a signature low-key 
-                                style of delivery, and a great command over language. A professional purveyor of shower thoughts, he has entertained audiences 
-                                with his takes on everything from Masterchef to Mukesh Ambani, and will be a hilarious highlight for MES 2022.
+                                A standup performance by Rajat Chauhan and Ashish Solanki, two of India’s leading standup comics. They 
+                                have an unique spot in the pantheon of Indian comics, with a knack for observation that is second to none, a signature low-key 
+                                style of delivery, and a great command over language. A professional purveyor of shower thoughts, they have entertained audiences 
+                                with their takes on everything from Masterchef to Mukesh Ambani, and will be a hilarious highlight for MES 2023.
                             </p>
                             <div className="standup-meta">
                                 <div className="date">
                                     <img alt="Calendar" src={calendar}></img>
-                                    <p>2nd April 2022</p>
-                                </div>
+                                    <p>25th February 2023</p>
+                                </div> 
                                 <div className="date">
                                     <img alt="Location" src={map}></img>
-                                    <p>Quadrangle</p>
+                                    <p>MIT Quadrangle</p>
                                 </div>
                             </div>
                         </div>
