@@ -16,8 +16,10 @@ import talkLogo from "./../../assets/logos/10.png";
 import workshopLogo from "./../../assets/logos/12.png";
 import bizLogo from "./../../assets/logos/11.png";
 import fallLogo from "./../../assets/logos/F.png";
+import ISTElogo from "./../../assets/logos/ISTE.png";
 import moneyquestLogo from "./../../assets/logos/Moneyball.png";
 import Navbar from "../../components/Navbar/Navbar";
+
 
 const Register = () => {
 
@@ -766,6 +768,15 @@ const Register = () => {
                             changeFunc={setTalk}
                             guest="Abhinav Arora, Dhruva Goyal, Anirudh Arun, Rishabh Gupta"
                             logo={talkLogo} 
+                            handleArray={handleRegEventsArray}
+                        />
+
+                        <CheckboxCard 
+                            eventName="ECell x ISTE" 
+                            eventMode="" 
+                            changeFunc={setTalk}
+                            guest="Arvind Sasikumar, Vinod Aravindakshan"
+                            logo={ISTElogo} 
                             handleArray={handleRegEventsArray}
                         />
 
