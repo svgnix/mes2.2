@@ -47,7 +47,8 @@
     height: fit-content;
     margin: 10px 0;
     display: flex;
-    gap: 10px;
+    gap: 20px; 
+    /* justify-content: center;  */
 }
 .date {
     height: 30px;
@@ -66,7 +67,7 @@
         height: 85vh;
     }
     .head-content {
-        padding: 20px 30px;
+        padding: 20px;
     }
     .head-content h3 {
         font-size: 2rem;

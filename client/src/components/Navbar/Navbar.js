@@ -23,9 +23,7 @@ const Navbar = () => {
                 <a href="/"><img src={mahe} alt="MAHE"></img></a>
             </div>
             <ul class="nav-menu">
-                <li class="nav-item" onClick={closeNav}>
-                    <a href="/standup" class="nav-link">Standup</a>
-                </li> 
+                
                  <li class="nav-item" onClick={closeNav}>
                     <a href="/" class="nav-link">Home</a>
                 </li>
@@ -37,6 +35,10 @@ const Navbar = () => {
                 <li class="nav-item" onClick={closeNav}>
                     <a href="/register" class="nav-link">Register</a>
                 </li>
+                
+                <li class="nav-item" onClick={closeNav}>
+                    <a href="/standup" class="nav-link">Standup</a>
+                </li> 
                 
                 {/* <li class="nav-item" onClick={closeNav}>
                     <a href="/guidelines" class="nav-link">Sponsors</a>

@@ -45,17 +45,19 @@ const Standup = () => {
                     <div className="gradient">
                         <div className="head-content">
                             <h3>Rajat Chauhan & Ashish Solanki</h3>
+                            <br></br>
                             <p>
                                 A standup performance by Rajat Chauhan and Ashish Solanki, two of India’s leading standup comics. They 
                                 have an unique spot in the pantheon of Indian comics, with a knack for observation that is second to none, a signature low-key 
                                 style of delivery, and a great command over language. A professional purveyor of shower thoughts, they have entertained audiences 
                                 with their takes on everything from Masterchef to Mukesh Ambani, and will be a hilarious highlight for MES 2023.
                             </p>
+                            <br></br>
                             <div className="standup-meta">
                                 <div className="date">
                                     <img alt="Calendar" src={calendar}></img>
                                     <p>25th February 2023</p>
-                                </div> 
+                                </div>      
                                 <div className="date">
                                     <img alt="Location" src={map}></img>
                                     <p>MIT Quadrangle</p>
